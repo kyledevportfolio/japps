@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633098829329",
+    "firebase_url": "https://imessages-953e4.firebaseio.com",
+    "project_id": "imessages-953e4",
+    "storage_bucket": "imessages-953e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633098829329:android:4ad35eaaa7c3efb2",
+        "android_client_info": {
+          "package_name": "com.sayson.narl.imessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633098829329-rv459m65t7sjg7jgrv5bkjrq178rgg7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayson.narl.imessage",
+            "certificate_hash": "cab60da4356c8cafb963d6b559bacbf880751d6b"
+          }
+        },
+        {
+          "client_id": "633098829329-ehu2ctjum6bmn6jgpiicpt7qkbqfvvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1gMkv5e0F8AQV7yaoCm6UEQjdgz-1e4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633098829329-ehu2ctjum6bmn6jgpiicpt7qkbqfvvn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
